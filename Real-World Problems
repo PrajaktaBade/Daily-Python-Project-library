@@ -1,4 +1,11 @@
 Problem statement:  To create a Python program that alters an Excel file by adding a new column to it.
+Write a Python program that:
+          Loads the Excel file as a Pandas dataframe or similar.
+          Adds a new column named Total to the data.
+          The data of the Total column should be a product of the Price column and the Quantity column (i.e., Price x Quantity).
+          Generates an output.xlsx file that contains the original data and the new Total column.
+
+
 
 
 
